@@ -1,0 +1,44 @@
+1
+1Found words:1
+Time taken: 0.347918
+.
+2
+2Found words:4
+Time taken: 0.346079
+.
+4
+4Found words:43
+Time taken: 0.353598
+.
+8
+8Found words:339
+Time taken: 0.34609
+.
+16
+16Found words:1176
+Time taken: 0.350379
+.
+32
+32Found words:4993
+Time taken: 0.362117
+.
+64
+64Found words:12838
+Time taken: 0.387499
+.
+128
+128Found words:25922
+Time taken: 0.494325
+.
+256
+256Found words:45062
+Time taken: 0.957849
+.
+512
+512Found words:69777
+Time taken: 2.69666
+.
+1024
+1024Found words:97148
+Time taken: 9.5797
+.
